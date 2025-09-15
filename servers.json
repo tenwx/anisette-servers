@@ -51,6 +51,10 @@
         {
             "name": "Jayden's Server",
             "address": "https://ani.jaydenha.uk"
+        },
+        {
+            "name": "Terence's Server",
+            "address": "http://openvz4.terence.cf:6969"
         }
     ]
 }
