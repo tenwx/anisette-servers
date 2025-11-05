@@ -55,6 +55,10 @@
         {
             "name": "Terence's Server",
             "address": "http://openvz4.terence.cf:6969"
+        },
+        {
+            "name": "Terence's Server 2",
+            "address": "http://openvz.terence.cf:6969"
         }
     ]
 }
